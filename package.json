@@ -1,0 +1,16 @@
+{
+  "name": "modulite",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nsobject": "^1.0.3",
+    "require-all": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
