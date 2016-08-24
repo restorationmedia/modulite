@@ -12,5 +12,13 @@
     "require-all": "^2.0.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restorationmedia/modulite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/restorationmedia/modulite/issues"
+  },
+  "homepage": "https://github.com/restorationmedia/modulite#readme"
 }
